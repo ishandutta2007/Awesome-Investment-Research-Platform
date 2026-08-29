@@ -22,35 +22,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[AlphaSense](https://www.alpha-sense.com/)**  
-  Leading AI-powered market intelligence and search platform covering filings, transcripts, broker research, expert calls (including Tegus content), news, and internal documents.
-
-- **[Sentieo](https://www.sentieo.com/)**  
-  Research platform (now part of the broader AlphaSense ecosystem) known for powerful document search, filing analysis, and equity research workflows.
-
-- **[Visible Alpha](https://visiblealpha.com/)**  
-  Consensus and detailed financial estimates platform widely used by buy-side and sell-side analysts for standardized company models and KPIs.
-
-- **[Koyfin](https://www.koyfin.com/)**  
-  Affordable, modern market research and analytics platform offering charting, fundamentals, screening, and portfolio tools popular with independent investors and smaller teams.
-
-- **[Tegus](https://www.tegus.com/)**  
-  Expert interview and transcript platform (acquired/integrated into larger research ecosystems) providing primary research from industry specialists.
-
-- **[BamSEC](https://www.bamsec.com/)**  
-  Specialist platform focused on fast, efficient access to and analysis of SEC filings, transcripts, and related primary documents.
-
-- **[S&P Capital IQ Pro](https://www.spglobal.com/marketintelligence/)**  
-  Comprehensive financial data, analytics, and Excel-oriented modeling platform used extensively for fundamental research and comparable analysis.
-
-- **[PitchBook](https://pitchbook.com/)**  
-  Leading private-market data platform covering venture capital, private equity, M&A, fund performance, and company intelligence.
-
-- **[Mosaic Smart Data / related analytics](https://www.mosaicsmartdata.com/)**  
-  Specialized data and analytics solutions often used in fixed-income and multi-asset research contexts.
-
-- **[Yewno](https://www.yewno.com/)**  
-  AI-driven knowledge and thematic research platform that maps concepts and relationships across large document corpora for investment insight.
+| Platform | Description | Starting Tier Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[AlphaSense](https://www.alpha-sense.com/)** | AI-powered market intelligence & search covering SEC filings, transcripts, broker research, expert calls, and news. | Starts at ~$10,000 – $20,000/seat/yr (Core enterprise tier; quotes scale with expert call & broker add-ons) | **14-day free trial** upon demo/sales request; full document search & AI summaries (export/download caps apply, no permanent free tier) |
+| **[Sentieo](https://www.sentieo.com/)** | Financial search engine, filing analysis, and research notebook workspace (integrated into AlphaSense platform). | Starts at ~$10,000/seat/yr (Sold via AlphaSense enterprise subscriptions) | **14-day free trial** upon sales request; access to document search and notebook features (no permanent free tier) |
+| **[Visible Alpha](https://visiblealpha.com/)** | Consensus forecasts, detailed financial estimates, and standardized operating metrics/KPI models. | Starts at ~$10,000 – $15,000/yr (Contract-based via S&P Global; scales by coverage universe & seat count) | **14-day pilot/trial** arranged via sales demo; limited to sample coverage universe (no permanent free tier) |
+| **[Koyfin](https://www.koyfin.com/)** | Market data, financial charting, equity screening, macroeconomic dashboards, and portfolio analytics. | **$39/mo** (Plus tier, billed annually) / $79/mo (Premium tier) | **Free forever plan**: Max 2 watchlists, 2 screens, 2 custom dashboards, 2 years financial statements, 1 year estimates, 1 portfolio |
+| **[Tegus](https://www.tegus.com/)** | Primary research platform featuring a vast library of expert interview transcripts and financial models (now part of AlphaSense). | Starts at ~$20,000 – $25,000/seat/yr (Annual platform license) | **7-day trial / sample call bundle** arranged via sales consultation; access to sample transcript database (no permanent free tier) |
+| **[BamSEC](https://www.bamsec.com/)** | Specialist tool for fast SEC EDGAR filing search, table extraction to Excel, and earnings call transcript navigation. | **$69/mo** (Pro tier, billed annually) | **7-day free trial** for Pro; limited transcript access during trial per S&P licensing agreements. Free tier offers basic search & SEC viewing only |
+| **[S&P Capital IQ Pro](https://www.spglobal.com/marketintelligence/)** | Comprehensive institutional fundamental data, screening, financial modeling, and Excel plug-in analytics. | Starts at ~$12,000/seat/yr (Core desktop license; scales upwards based on data feeds/modules) | **7-day to 14-day trial** upon qualified sales request; limited dataset export/screening queries (no permanent free tier) |
+| **[PitchBook](https://pitchbook.com/)** | Global private capital market database covering VC, PE, M&A transactions, fund performance, and valuations. | Starts at ~$20,000/seat/yr (3-user starter bundle typically ~$20,000 – $24,000/yr) | **7-day trial** via sales qualification / demo; capped search results and restricted raw data exports (no permanent free tier) |
+| **[Mosaic Smart Data](https://www.mosaicsmartdata.com/)** | Real-time FICC data analytics and transaction intelligence platform for banks and buy-side trading desks. | Starts at ~$25,000/yr (Enterprise institutional subscription via Behavox sales) | **30-day free trial** for Smart Markets data intelligence service (requires corporate email verification; no permanent free tier) |
+| **[Yewno](https://www.yewno.com/)** | AI-powered knowledge graph and thematic investment research engine mapping company concepts and market themes. | **$59/mo** (Basic tier) / $149/mo (Premium tier with Strategy Builder) | **14-day free trial** on Yewno Edge with full access to thematic screening and graphs (no permanent free tier) |
 
 ## Open-Source GitHub Projects
 
